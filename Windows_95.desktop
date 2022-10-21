@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Windows 95
+Comment=
+Exec=/usr/bin/windows95
+Icon=/home/jovyan/Pictures/Windows_Logo.svg
+Path=
+Terminal=false
+StartupNotify=false
